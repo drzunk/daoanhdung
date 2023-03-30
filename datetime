@@ -1,0 +1,12 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        DateTime localdate = DateTime.Now;
+        System.Console.WriteLine("date time now is :" + localdate);
+    }
+        
+}
+
